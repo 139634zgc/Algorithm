@@ -1,5 +1,5 @@
 public class SumOfFourNumber {
-    /*
+    /*四数之和
      * @param numbers: Give an array
      * @param target: An integer
      * @return: Find all unique quadruplets in the array which gives the sum of zero
